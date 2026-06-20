@@ -55,19 +55,19 @@ netflix-content-insights-python/
 
 ### Top 10 Movie Genres
 
-![Top 10 Genres](images/charts/top_10_genres.png)
+![Top 10 Genres](charts/top_10_genres.png)
 
 ### Top Release Years
 
-![Top Release Years](images/charts/top_release_years.png)
+![Top Release Years](top_release_years.png)
 
 ### Top 10 Movies by Popularity
 
-![Top 10 Popularity](images/charts/top_10_popularity.png)
+![Top 10 Popularity](top_10_popularity.png)
 
 ### Vote Average Distribution
 
-![Vote Average Distribution](images/charts/vote_average_distribution.png)
+![Vote Average Distribution](vote_average_distribution.png)
 
 ## Tools and Technologies
 
